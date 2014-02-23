@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HIBYPRIMEWIN</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>11104778-76e0-477e-a1e5-8b7664286203</PackageIdentityName>
+    <RegisteredManifestChecksum>16F25DB66EFB5CBDC2C1F864930FECCC3A49166B87EC8C5FE0850164E7CC4C07</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>11104778-76e0-477e-a1e5-8b7664286203_1.0.0.0_neutral__4bha6t8v6mmqe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>11104778-76e0-477e-a1e5-8b7664286203_4bha6t8v6mmqe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>11104778-76e0-477e-a1e5-8b7664286203</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Matt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:43:51.052</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\WinStoreFinalProject.exe">
+      <PackagePath>WinStoreFinalProject.exe</PackagePath>
+      <Modified>2014-02-06T16:57:18.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:39:40.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:35:25.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:35:25.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:35:25.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:31:44.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:31:44.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:31:44.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-24.png">
+      <PackagePath>badge-24.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-33.png">
+      <PackagePath>badge-33.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-43.png">
+      <PackagePath>badge-43.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-43.scale-100.png">
+      <PackagePath>badge-43.scale-100.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-43.scale-140.png">
+      <PackagePath>badge-43.scale-140.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\badge-43.scale-180.png">
+      <PackagePath>badge-43.scale-180.png</PackagePath>
+      <Modified>2014-02-06T16:37:17.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Pi-symbol.png">
+      <PackagePath>Pi-symbol.png</PackagePath>
+      <Modified>2014-02-06T14:20:51.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-70.png">
+      <PackagePath>Assets\Pi_by_kernelpanicx-70.png</PackagePath>
+      <Modified>2014-02-06T16:31:44.761</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx.png">
+      <PackagePath>Assets\Pi_by_kernelpanicx.png</PackagePath>
+      <Modified>2014-02-06T16:31:44.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx90.png">
+      <PackagePath>Assets\Pi_by_kernelpanicx90.png</PackagePath>
+      <Modified>2014-02-06T16:31:44.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Pi_by_kernelpanicx-30.png">
+      <PackagePath>Pi_by_kernelpanicx-30.png</PackagePath>
+      <Modified>2014-02-06T16:39:40.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\splash-1116.png">
+      <PackagePath>splash-1116.png</PackagePath>
+      <Modified>2014-02-06T16:35:25.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\splash-620.png">
+      <PackagePath>splash-620.png</PackagePath>
+      <Modified>2014-02-06T16:35:25.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\splash-868.png">
+      <PackagePath>splash-868.png</PackagePath>
+      <Modified>2014-02-06T16:35:25.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-56.scale-100.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-56.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:27:04.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-56.scale-140.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-56.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:27:04.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-56.scale-180.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-56.scale-180.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:27:04.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-56.scale-80.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-56.scale-80.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-06T16:27:04.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx.scale-100.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx.scale-100.jpg</PackagePath>
+      <Modified>2014-02-06T16:20:20.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx.scale-140.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx.scale-140.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx.scale-180.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx.scale-180.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx.scale-80.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx.scale-80.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\pigraphic.jpg">
+      <PackagePath>pigraphic.jpg</PackagePath>
+      <Modified>2014-02-06T16:15:26.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-120.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-120.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-126.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-126.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-210.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-210.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-248.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-248.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-270.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-270.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-70.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-70.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.840</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Assets\Pi_by_kernelpanicx-98.jpg">
+      <PackagePath>Assets\Pi_by_kernelpanicx-98.jpg</PackagePath>
+      <Modified>2014-02-06T16:27:04.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-02-04T13:26:17.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-02-06T16:45:19.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\FirstThousandYearsCE.xbf">
+      <PackagePath>FirstThousandYearsCE.xbf</PackagePath>
+      <Modified>2014-02-06T16:45:19.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\HistoryOfPi.xbf">
+      <PackagePath>HistoryOfPi.xbf</PackagePath>
+      <Modified>2014-02-06T16:57:18.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-02-06T16:57:18.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\ModernEra.xbf">
+      <PackagePath>ModernEra.xbf</PackagePath>
+      <Modified>2014-02-06T16:57:18.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\montecarlo.xbf">
+      <PackagePath>montecarlo.xbf</PackagePath>
+      <Modified>2014-02-06T16:57:18.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\workspace\Dev\visualworkspace\WinStoreFinalProject\WinStoreFinalProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-06T16:43:50.984</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

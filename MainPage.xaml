@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="WinStoreFinalProject.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinStoreFinalProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid HorizontalAlignment="Left" Height="748" Margin="10,10,0,0" VerticalAlignment="Top" Width="1346">
+            <StackPanel HorizontalAlignment="Left" Height="585" Margin="76,135,0,0" VerticalAlignment="Top" Width="300">
+                <TextBlock TextWrapping="Wrap" Text="Navigation:" Height="36" FontSize="20"/>
+                <Button x:Name="btnHistory" Content="History of Pi" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="7,0" Height="60" Click="btnHistory_Click" BorderThickness="0" Background="#FF8B8B8B" Foreground="White"/>
+                <Button x:Name="btnFirstThousand" Content="1 CE to 1630 CE" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="62,0,7,0" Background="#FF8B8B8B" BorderThickness="0" Click="btnFirstThousand_Click" Foreground="White"/>
+                <Button Content="Modern Era" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="62,0,7,0" Background="#FF8B8B8B" BorderThickness="0" Click="Button_Click" Foreground="White"/>
+                <Button x:Name="monteCarlo" Content="Monte Carlo Pi Simulator" HorizontalAlignment="Left" VerticalAlignment="Top" Height="60" Width="286" Click="monteCarlo_Click" BorderThickness="0" Background="#FF8B8B8B" Margin="7,0,0,0" Foreground="White"/>
+            </StackPanel>
+            <TextBlock HorizontalAlignment="Left" Margin="514,50,0,0" TextWrapping="Wrap" Text="The History Of Pi" VerticalAlignment="Top" FontSize="36"/>
+            <Image HorizontalAlignment="Left" Height="536" Margin="514,135,0,0" VerticalAlignment="Top" Width="708" Source="pigraphic.jpg"/>
+        </Grid>
+    </Grid>
+</Page>
